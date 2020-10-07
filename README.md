@@ -1,2 +1,2 @@
 # mitm-cache-go
-Go API for mitm-cache proxy.
+Go API for [mitm-cache](https://github.com/mtib/mitm-cache) proxy.
