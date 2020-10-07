@@ -1,3 +1,3 @@
-module github.com/mtib/mitm-cache-go/mtim
+module github.com/mtib/mitm-cache-go
 
 go 1.15
